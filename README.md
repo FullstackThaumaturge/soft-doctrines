@@ -1,11 +1,18 @@
 # The Soft Doctrines of Isaac Magnin
 
-This is a novel set in the *Starbreaker* setting by Matthew Graybosch.
+*a science fantasy novel by Matthew Graybosch and Catherine Gatt, written in public*
 
-It isn't appropriate for children or safe for work.
+---
 
-It's probably utter crap.
+The dark lord wears white.  
+He already rules the world.  
+Now he means to save it.  
+He might even succeed...
 
-Read at your own risk.
+*...with a little help from his enemies.*
+
+---
+
+This is a work in progress. Read at your own risk.
 
 LICENSE: CC BY-NC-SA 4.0 International
